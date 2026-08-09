@@ -18,7 +18,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-contactsailokesh-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/contactsailokesh)
-[![Email](https://img.shields.io/badge/Email-your--email%40example.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sailokesh3004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sailokesh3004%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sailokesh3004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-sailokesh10-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sailokesh10)
 
 </div>
@@ -280,7 +280,7 @@ current_focus:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-your--email%40example.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sailokesh3004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sailokesh3004%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sailokesh3004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-contactsailokesh-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/contactsailokesh)
 [![GitHub](https://img.shields.io/badge/GitHub-sailokesh10-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sailokesh10)
 
