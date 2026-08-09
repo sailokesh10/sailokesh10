@@ -36,11 +36,11 @@
 
 ## About
 
-I'm a **Data Engineer** with hands-on experience building and maintaining pipelines that move data reliably from source systems into the hands of analysts and decision-makers. I've worked across the full stack — ingestion, transformation, orchestration, and storage — in both cloud and on-prem environments, most recently as a **Data Engineer and Data Associate at Allianz Insurance**.
+I'm a **Data Engineer** with hands-on experience building and maintaining pipelines that move data reliably from source systems into the hands of analysts and decision-makers. I've worked across the full stack ingestion, transformation, orchestration, and storage — in both cloud and on-prem environments, most recently as a **Data Engineer and Data Associate at Allianz Insurance**.
 
 I hold an **MS in Computer and Information Sciences from the University of North Florida**, where I also served as a **Graduate Teaching Assistant**. My toolkit centers on Python, SQL, and Scala for data processing; Spark and Databricks for large-scale transformation; Airflow for orchestration; and Azure and AWS for cloud infrastructure. I care about pipelines that don't just run, but hold up under real production load — proper logging, monitoring, and clean data contracts included.
 
-I've also explored applied ML — from tree-based classifiers to project work involving unstructured data like text and images — because good data engineering and good modeling are built on the same foundation: data you can trust.
+I've also explored applied ML from tree-based classifiers to project work involving unstructured data like text and images because good data engineering and good modeling are built on the same foundation: data you can trust.
 
 **Open To:**
 
