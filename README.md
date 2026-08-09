@@ -189,7 +189,7 @@ Consolidates and cleans multi-source branch-level data, builds KPI tracking logi
 
 ### Data Engineer / Data Associate
 
-**Allianz Insurance** &nbsp;|&nbsp; *Jacksonville, FL*
+**Allianz Insurance** &nbsp;|&nbsp; *Hyderabad, India*
 
 Built and maintained data pipelines supporting insurance analytics and reporting, working across cloud and on-prem systems to ensure reliable, high-quality data delivery.
 
