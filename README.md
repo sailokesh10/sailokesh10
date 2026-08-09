@@ -87,7 +87,7 @@ I've also explored applied ML from tree-based classifiers to project work involv
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=powerbi,tableau&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,scala,js,sql,bash&amp;theme=dark)](https://skillicons.dev)
 
 </div>
 
