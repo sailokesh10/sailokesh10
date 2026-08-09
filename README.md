@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,50:0284c7,100:0ea5e9&height=200&section=header&text=Sai%20Lokesh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20Cloud%20%26%20Pipeline%20Systems%20%E2%80%A2%20MS%20CIS%20%40%20UNF&descAlignY=58&descSize=17" width="100%"/>
-
 </div>
 
 <div align="center">
