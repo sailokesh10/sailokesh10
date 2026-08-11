@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=0284C7&center=true&vCenter=true&multiline=false&repeat=true&width=780&lines=Building+Reliable+Data+Pipelines+at+Scale;Azure+%7C+AWS+%7C+Spark+%7C+Airflow+%7C+Snowflake;Data+Engineer+%40+Allianz+Insurance;From+Raw+Data+to+Production-Ready+Systems)](https://git.io/typing-svg)
 
-</div>
+</div> 
 
 <div align="center">
 
