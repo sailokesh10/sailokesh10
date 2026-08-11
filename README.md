@@ -8,7 +8,7 @@
 
 </div> 
 
-<div align="center">
+<div align="center"> 
 
 [![MS CIS](https://img.shields.io/badge/MS-Computer%20%26%20Information%20Sciences%20%40%20UNF-0369a1?style=flat-square&logoColor=white)](https://www.unf.edu/)
 [![Location](https://img.shields.io/badge/Location-Jacksonville%2C%20FL%20%7C%20Open%20to%20Remote-0284c7?style=flat-square&logo=google-maps&logoColor=white)](https://github.com/sailokesh10)
