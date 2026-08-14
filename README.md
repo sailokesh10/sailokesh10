@@ -226,6 +226,9 @@ Supported instruction and coursework for computer and information sciences cours
 
 ## Certifications
 
+### Microsoft Certified: Fabric Data Engineer Associate
+[![Microsoft Fabric Data Engineer Associate](https://img.shields.io/badge/Microsoft-Fabric%20Data%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-gb/sailokeshm-7628/49D3D6B1D1BA4FE7?sharingId=4F8BE49A2CDC26BB)
+
 ### Anthropic
 
 [![AI Fluency](https://img.shields.io/badge/Anthropic-AI%20Fluency%20Framework%20%26%20Foundations-0369a1?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/)
